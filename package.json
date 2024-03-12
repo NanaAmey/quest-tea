@@ -1,0 +1,9 @@
+{
+  "name": "@nanaamey/quest-tea",
+  "version": "1.0.0",
+  "description": "Tea Quest",
+  "main": "index.js",
+  "author": "@nanaamey",
+  "repository": "https://github.com/NanaAmey/quest-tea.git",
+  "license": "ISC"
+}
